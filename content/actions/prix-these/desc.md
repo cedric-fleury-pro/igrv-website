@@ -11,8 +11,15 @@ design:
   columns: '1'
 ---
 
-Depuis 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations [AFIG](https://www.asso-afig.fr/site/) et [EGFR](https://projet.liris.cnrs.fr/egfr/). 
-<table><tr><td><a href="https://www.asso-afig.fr/site/"><img src="img/logoAFIG.jpg" width="100%"></a></td> <td><a href="https://projet.liris.cnrs.fr/egfr/"><img src="img/logoEGFR.png" width="30%"></a></td></tr></table>
+Depuis 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations [AFIG](https://www.asso-afig.fr/site/), [EGFR](https://projet.liris.cnrs.fr/egfr/) et [AFXR](https://www.afxr.org) (depuis 2026).
+
+<table>
+<tr>
+  <td><a href="https://www.asso-afig.fr/site/"><img src="img/logoAFIG.jpg" width="1000"></a></td>
+  <td><a href="https://projet.liris.cnrs.fr/egfr/"><img src="img/logoEGFR.png" width="100%"></a></td>
+  <td><a href="https://www.afxr.org"><img src="img/Logo AFXR 1k.png" ></a></td>
+ </tr>
+ </table>
 
 
 L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.
@@ -26,7 +33,9 @@ Chaque année le jury du prix de thèse du GdR propose un(e) lauréat(e) et d'é
 # Modalités
 
 Les modalités pratiques sont précisées ci-dessous et rappelées par mail sur la liste du GdR IG-RV.
-Pour les candidats ayant soutenu leur thèse durant l'année civile précédent l'année de tenue du jury du prix de thèse IGRV, les pièces suivantes seront demandées :
+Peuvent candidater les personnes ayant soutenu leur thèse au cours de l'année civile précédant l'année de tenue du jury du prix et dont la thèse est accessible publiquement. Une tolérance est prévue pour les thèses sujettes à confidentialité, à condition que la thèse soit rendue publique au plus tard un an après la date de soutenance. Dans ce cas, la candidature au prix de thèse est possible l'année civile suivant la date de levée de la confidentialité.
+
+Les pièces suivantes seront demandées :
 * un CV (2 pages maximum) ;
 * une liste de publications ;
 * le manuscrit de thèse ;
